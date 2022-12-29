@@ -7,4 +7,14 @@ This repository contains whole material of 40 days course on Python for Data Sci
 You can register for this course from 01.01.2023-09.02.2023.\
 More details on the course can be found in this [google form](https://forms.gle/kDyUnD1nrN2LF6qy8)
 
-![Poster](resources/PKC2023.png)
+<!-- ![](resources/PKC2023.png) --> #if you want to make a big poster
+<!-- <img src="resources/PKC2023.png" height="400"> -->
+<img src="resources/poster_2.png" width="800">
+
+## **Course Content**
+
+> Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
+
+
+
+
