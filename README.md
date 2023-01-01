@@ -29,7 +29,7 @@ More details on the course can be found in this [google form](https://forms.gle/
 >
 > The video can be seen by clicking on the picture below.
 >
-[![First Zoom Class](https://i9.ytimg.com/vi/Ux9ttEM2smk/mqdefault.jpg?v=63b1b813&sqp=CODuxp0G&rs=AOn4CLB6w4Zvdy1KKcd2g-BQqbO5DMVxaQ)](https://youtu.be/Ux9ttEM2smk)
+[![First Zoom Class](https://i9.ytimg.com/vi/Ux9ttEM2smk/mqdefault.jpg?v=63b1b813&sqp=CODuxp0G&rs=AOn4CLB6w4Zvdy1KKcd2g-BQqbO5DMVxaQ)](https://youtu.be/Ux9ttEM2smk?t=106)
 
 > ### **Installation of Python and VScode**
 > 
