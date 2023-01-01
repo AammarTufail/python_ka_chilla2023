@@ -18,6 +18,18 @@ More details on the course can be found in this [google form](https://forms.gle/
 ## **Day-1**
 > ### **Introduction to Python ka chilla and Data Science**
 >
+> Python k chilla ki pehli class main hame ye cheezen dekhi hyn:
+> - What is Data Science?
+> - Daily Life Examples
+> - Installation of Python and VScode
+> - Writing your first line of code
+> - Data Types and operators
+> - Different operation in CMD
+> - What is an IDE (Integrated Development Environment)?
+>
+> The video can be seen by clicking on the picture below.
+>
+[![First Zoom Class](https://i9.ytimg.com/vi/Ux9ttEM2smk/mqdefault.jpg?v=63b1b813&sqp=CODuxp0G&rs=AOn4CLB6w4Zvdy1KKcd2g-BQqbO5DMVxaQ)](https://youtu.be/Ux9ttEM2smk)
 
 > ### **Installation of Python and VScode**
 > 
@@ -28,6 +40,5 @@ More details on the course can be found in this [google form](https://forms.gle/
 Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay image per click kar k video dekh saktay hyn. 
 
 [![Instattion of Python and other software](https://i9.ytimg.com/vi/zcqW7Hp-FVk/mqdefault.jpg?v=63b1a3d6&sqp=CNDSxp0G&rs=AOn4CLDgzApc8hReRv4qjLdoygrIg3_Aaw)](https://youtu.be/zcqW7Hp-FVk)
-
 
 
