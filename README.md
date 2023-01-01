@@ -41,4 +41,9 @@ Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay 
 
 [![Instattion of Python and other software](https://i9.ytimg.com/vi/zcqW7Hp-FVk/mqdefault.jpg?v=63b1a3d6&sqp=CNDSxp0G&rs=AOn4CLDgzApc8hReRv4qjLdoygrIg3_Aaw)](https://youtu.be/zcqW7Hp-FVk)
 
-
+> ### **Write your first line of code with us**
+> Is video main hame dekhen gay k ap ne installation k baad first line of code kaisay likhni hy jaisay ap ne [pichli Lecture](#introduction-to-python-ka-chilla-and-data-science) main dekha tha is main ham aik file k through bhi codes run karen gay.
+>
+> Lecture ko Urdu video main sunnay k liay is imagae per click karen
+>
+> [![Write your first line of code](https://i9.ytimg.com/vi/4T3cIOi61cg/mqdefault.jpg?v=63b1dabc&sqp=CIi1x50G&rs=AOn4CLA8H5SqlEwNYx46q1jsxZmW8lg2wQ)](https://youtu.be/4T3cIOi61cg)
