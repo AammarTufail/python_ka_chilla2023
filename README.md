@@ -55,10 +55,16 @@ Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay 
 ### **How to use VScode (an IDE) for Python?**
 > Python ka chilla 2023 k doosray din main ham seekhen gay k IDE yani k VScode ko kaisay use karna hy to learn and use python in an efficient manner.
 > 
-> Day-1 main ap ne VScode ko isntall kia ho ga ab dekhtay hyn k vscode ko use kaisay karna hy?
+> Day-1 main ap ne VScode ko install kia tha ab dekhtay hyn k vscode ko use kaisay karna hy?
+> * Is video main ham ne vscode ki top extensions install karna dekhni hyn
+> * Python ko VScode main run karna
+> * File types or extensions kon kon si hti hyn woh dekhen gay
+> * Python ki extension `.py` or `.ipynb` kia hti hyn ye dekhen gay
+> * Questions kaisay poochnay hyn woh dekhen gay. Agar ap ka koi question hy tu ap [yahan per click kar k pooch len](https://github.com/AammarTufail/python_ka_chilla2023/discussions)
+> * Ap ko isi video main future strategy bhi milay ge k agay walay din kaisay practice karni hy
 >
 > Is video per click karen and watch this whole session:
 >
 <!-- [![How to use VScode (an IDE) for Python?](./resources/Day2.png)](https://www.youtube.com/watch?v=NoDwrvFogiU&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=6) -->
 
-[<img src="./resources/Day2.png" width="45%">](https://www.youtube.com/watch?v=NoDwrvFogiU&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=6 "How to use VScode (an IDE) for Python?")
+[<img src="./resources/Day2.png" width="42%">](https://www.youtube.com/watch?v=NoDwrvFogiU&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=6 "How to use VScode (an IDE) for Python?")
