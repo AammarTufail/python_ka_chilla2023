@@ -59,4 +59,6 @@ Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay 
 >
 > Is video per click karen and watch this whole session:
 >
-[![How to use VScode (an IDE) for Python?](./resources/Day2.png)](https://www.youtube.com/watch?v=NoDwrvFogiU&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=6)
+<!-- [![How to use VScode (an IDE) for Python?](./resources/Day2.png)](https://www.youtube.com/watch?v=NoDwrvFogiU&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=6) -->
+
+[<img src="./resources/Day2.png" width="45%">](https://www.youtube.com/watch?v=NoDwrvFogiU&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=6 "How to use VScode (an IDE) for Python?")
