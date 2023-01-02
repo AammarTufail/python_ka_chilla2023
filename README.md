@@ -39,7 +39,7 @@ More details on the course can be found in this [google form](https://forms.gle/
 
 Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay image per click kar k video dekh saktay hyn. 
 
-[![Installation of Python and other software](./resources/installation.png)](https://youtu.be/zcqW7Hp-FVk)
+>[![Installation of Python and other software](./resources/installation.png)](https://youtu.be/zcqW7Hp-FVk)
 
 > ### **Write your first line of code with us**
 > Is video main hame dekhen gay k ap ne installation k baad first line of code kaisay likhni hy jaisay ap ne [pichli Lecture](#introduction-to-python-ka-chilla-and-data-science) main dekha tha is main ham aik file k through bhi codes run karen gay.
