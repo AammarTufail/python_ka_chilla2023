@@ -29,7 +29,7 @@ More details on the course can be found in this [google form](https://forms.gle/
 >
 > The video can be seen by clicking on the picture below.
 >
-[![First Zoom Class](https://i9.ytimg.com/vi/Ux9ttEM2smk/mqdefault.jpg?v=63b1b813&sqp=CODuxp0G&rs=AOn4CLB6w4Zvdy1KKcd2g-BQqbO5DMVxaQ)](https://youtu.be/Ux9ttEM2smk?t=106)
+[![First Zoom Class](./resources/Day1.png)](https://youtu.be/Ux9ttEM2smk?t=106)
 
 > ### **Installation of Python and VScode**
 > 
@@ -39,11 +39,11 @@ More details on the course can be found in this [google form](https://forms.gle/
 
 Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay image per click kar k video dekh saktay hyn. 
 
-[![Instattion of Python and other software](https://i9.ytimg.com/vi/zcqW7Hp-FVk/mqdefault.jpg?v=63b1a3d6&sqp=CNDSxp0G&rs=AOn4CLDgzApc8hReRv4qjLdoygrIg3_Aaw)](https://youtu.be/zcqW7Hp-FVk)
+[![Instattion of Python and other software](../python_ka_chilla2023/resources/installation.png)](https://youtu.be/zcqW7Hp-FVk)
 
 > ### **Write your first line of code with us**
 > Is video main hame dekhen gay k ap ne installation k baad first line of code kaisay likhni hy jaisay ap ne [pichli Lecture](#introduction-to-python-ka-chilla-and-data-science) main dekha tha is main ham aik file k through bhi codes run karen gay.
 >
 > Lecture ko Urdu video main sunnay k liay is imagae per click karen
 >
-> [![Write your first line of code](https://i9.ytimg.com/vi/4T3cIOi61cg/mqdefault.jpg?v=63b1dabc&sqp=CIi1x50G&rs=AOn4CLA8H5SqlEwNYx46q1jsxZmW8lg2wQ)](https://youtu.be/4T3cIOi61cg)
+> [![Write your first line of code](./resources/first_line.png)](https://youtu.be/4T3cIOi61cg)
