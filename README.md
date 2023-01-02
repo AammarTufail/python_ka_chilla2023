@@ -26,6 +26,7 @@ More details on the course can be found in this [google form](https://forms.gle/
 > - Data Types and operators
 > - Different operation in CMD
 > - What is an IDE (Integrated Development Environment)?
+> - The use of chatGPT was also discussed in this lecture which can be seen in the following video [here](https://youtu.be/1YYUVfNPFaw?t=7)
 >
 > The video can be seen by clicking on the picture below.
 >
@@ -47,3 +48,15 @@ Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay 
 > Lecture ko Urdu video main sunnay k liay is imagae per click karen
 >
 [![Write your first line of code](./resources/first_line.png)](https://youtu.be/4T3cIOi61cg)
+
+---
+## **Day-2**
+
+### **How to use VScode (an IDE) for Python?**
+> Python ka chilla 2023 k doosray din main ham seekhen gay k IDE yani k VScode ko kaisay use karna hy to learn and use python in an efficient manner.
+> 
+> Day-1 main ap ne VScode ko isntall kia ho ga ab dekhtay hyn k vscode ko use kaisay karna hy?
+>
+> Is video per click karen and watch this whole session:
+>
+[![How to use VScode (an IDE) for Python?](./resources/Day2.png)](https://www.youtube.com/watch?v=NoDwrvFogiU&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=6)
