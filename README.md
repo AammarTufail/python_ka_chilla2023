@@ -83,4 +83,13 @@ Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay 
 
 ---
 ## **Day-3**
-### [**Basics of Python programming for Data Science**](./notebooks/01_python_basics.md)
+### **Basics of Python programming for Data Science**
+
+<!-- ### [**Basics of Python programming for Data Science**](./notebooks/01_python_basics.md) -->
+
+You can learn Basics of Python Programming from these two Videos:
+1. Live Zoom Session of Day-3:\
+[<img src="./resources/Day3_live.png" width="42%">](https://youtu.be/7f2Ns75ibOc "Python-101 Live")
+
+2. Python Programming (Python-101) by clicking on this:\
+[<img src="./resources/Day3.png" width="42%">](https://youtu.be/930zolu8E2g "Python-101 COmplete Python?")
