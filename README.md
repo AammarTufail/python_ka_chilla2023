@@ -83,6 +83,4 @@ Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay 
 
 ---
 ## **Day-3**
-### **Basics of Python programming for Data Science**
-
-The complete course on basics of python programming can be seen in this [<img src="./resources/Jupyter_logo.svg" width="3%">](./notebooks/01_python_basics.ipynb "How to use VScode (an IDE) for Python?")
+### [**Basics of Python programming for Data Science**](./notebooks/01_python_basics.md)
