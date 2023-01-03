@@ -11,6 +11,18 @@ More details on the course can be found in this [google form](https://forms.gle/
 <!-- <img src="resources/PKC2023.png" height="400"> -->
 <img src="resources/poster_2.png" width="700">
 
+## **How to use your mobile (Iphone/Android) camera as webcam and mobile mic as main mic for zoom meetings**
+Apnay mobile ka cameray ko as webcam use karnay k liay is [link](https://www.youtube.com/watch?v=IEmAQbvadE8&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=5) per click kar k short video ko dekhen
+Ye steps follow karen:
+1. Install iriun software on your PC/Laptop from this [link](https://iriun.com/)
+2. Same app ko [google](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) ya [apple](https://itunes.apple.com/us/app/iriun-webcam-for-pc-and-mac/id1439303579?mt=8) k app store se download karen
+3. Confirm the installation of apps in both devices your PC and Mobile
+4. Dono devices ko connect karen, with a cable, ya phir ap same wifi se connect karen tu show ho jayen ge.
+5. Open you zoom and select IRIUN camera as webcam in video/camera settings
+6. Select audio settings and choose IRIUN as you mic as well for better sound quality.
+7. For more details watch [this video for IPHONE](https://www.youtube.com/watch?v=nnbu3C1ht9Y&t=14s&ab_channel=VideoLane) and [this for android](https://www.youtube.com/watch?v=SsxBcGJDRC0&ab_channel=CapTrongNam-HowTo).
+8. Join our zoom meetings and enjoy.  
+
 ## **Course Content**
 
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
