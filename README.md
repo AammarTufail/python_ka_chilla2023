@@ -80,3 +80,9 @@ Urdu main ham ne in software ko install krne ka tareeqa bhi bta dea hy, neechay 
 <!-- [![How to use VScode (an IDE) for Python?](./resources/Day2.png)](https://www.youtube.com/watch?v=NoDwrvFogiU&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=6) -->
 
 [<img src="./resources/Day2.png" width="42%">](https://www.youtube.com/watch?v=NoDwrvFogiU&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=6 "How to use VScode (an IDE) for Python?")
+
+---
+## **Day-3**
+### **Basics of Python programming for Data Science**
+
+The complete course on basics of python programming can be seen in this [<img src="./resources/Jupyter_logo.svg" width="3%">](./notebooks/01_python_basics.ipynb "How to use VScode (an IDE) for Python?")
