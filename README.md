@@ -98,6 +98,7 @@ You can learn Basics of Python Programming from these two Videos:
 ### **Basics of Python programming for Data Science (2/2)**
 
 * Python Programming (Python-101) by clicking on this:\
+
+This was the live zoom session where we discused variables, input_function and much more... watch the video by clicking following figure:\
 [<img src="./resources/Day4.png" width="42%">](https://youtu.be/6wd60_vpQ6c "Python-101 Practice?")
 
-#test
