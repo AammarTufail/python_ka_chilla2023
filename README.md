@@ -97,7 +97,7 @@ You can learn Basics of Python Programming from these two Videos:
 ## **Day-4**
 ### **Basics of Python programming for Data Science (2/2)**
 
-1. Everyone must finish the lecture mentioned here and practice atleast 3 times:
+1. Ye day-3 ka lecture hy is ko finish karen or at least 3 martaba practice karen takay ye concepts ap ko clear ho jayen, phir hi agar maza aana seekhnay ka, warna issue hi rehnay ap ko (Agar ap yahan se kuch miss karen gay then ap ko maslay hnay walay hyn agay):
 Python Programming (Python-101) by clicking on this:\
 [<img src="./resources/Day3.png" width="42%">](https://youtu.be/930zolu8E2g "Python-101 COmplete Python?")
 
