@@ -25,6 +25,18 @@ Ye steps follow karen:
 
 ## **Course Content**
 
+- [Day-1](#day-1)
+- [Day-2](#day-2)
+- [Day-3](#day-3)
+- [Day-4](#day-4)
+- [Day-5](#day-5)
+<!-- - [Day-6](#day-6)
+- [Day-7](#day-7)
+- [Day-8](#day-8)
+- [Day-9](#day-9)
+- [Day-10](#day-10)
+- [Day-11](#day-11) -->
+
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
 
 ## **Day-1**
@@ -104,3 +116,26 @@ Python Programming (Python-101) by clicking on this:\
 1. This was the live zoom session where we discused variables, input_function and much more. watch the video by clicking following figure:\
 [<img src="./resources/Day4.png" width="42%">](https://youtu.be/6wd60_vpQ6c "Python-101 Practice?")
 
+## **Day-5**
+### **Coming Soon**
+
+<!-- ## **Day-6**
+### **Coming Soon**
+
+## **Day-7**
+### **Coming Soon**
+
+## **Day-8**
+### **Coming Soon**
+
+## **Day-9**
+### **Coming Soon**
+
+## **Day-10**
+### **Coming Soon**
+
+## **Day-11**
+### **Coming Soon**
+
+## **Day-12**
+### **Coming Soon** -->
