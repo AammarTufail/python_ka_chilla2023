@@ -117,7 +117,21 @@ Python Programming (Python-101) by clicking on this:\
 [<img src="./resources/Day4.png" width="42%">](https://youtu.be/6wd60_vpQ6c "Python-101 Practice?")
 
 ## **Day-5**
-### **Coming Soon**
+### **Jupyternotebook Introduction, Libraries and Data Visualization**
+
+Is lecture main ham dekhen gay k:
+1. jupyter notebooks `.ipynb` extension wali kia hti hyn?
+2. Libraries kia hti hyn or kis liay use htin?
+3. Data Visualization kaisay ki jati hy in Python?\
+[<img src="./resources/Day5.png" width="42%">](https://youtu.be/V5Pk5qvRo7A "Day-5 Lecture")
+
+### **Markdown Language in 75 Minutes (This video is taken from Python ka chilla 2022**
+
+- Here you must learn Markdown language to make jupyter notebooks and `.md` files for github before moving ahead.\
+[<img src="./resources/Day5a.png" width="42%">](https://www.youtube.com/watch?v=qJqAXjz-Rh4&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI&index=21 "MarkDown in 72 minutes")
+
+
+
 
 <!-- ## **Day-6**
 ### **Coming Soon**
