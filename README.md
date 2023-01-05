@@ -97,8 +97,10 @@ You can learn Basics of Python Programming from these two Videos:
 ## **Day-4**
 ### **Basics of Python programming for Data Science (2/2)**
 
-* Python Programming (Python-101) by clicking on this:
+1. Everyone must finish the lecture mentioned here and practice atleast 3 times:
+Python Programming (Python-101) by clicking on this:\
+[<img src="./resources/Day3.png" width="42%">](https://youtu.be/930zolu8E2g "Python-101 COmplete Python?")
 
-This was the live zoom session where we discused variables, input_function and much more. watch the video by clicking following figure:\
+1. This was the live zoom session where we discused variables, input_function and much more. watch the video by clicking following figure:\
 [<img src="./resources/Day4.png" width="42%">](https://youtu.be/6wd60_vpQ6c "Python-101 Practice?")
 
