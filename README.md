@@ -160,7 +160,10 @@ Is lecture main ham dekhen gay k:
 - Here you must learn Markdown language to make jupyter notebooks and `.md` files for github before moving ahead.\
 [<img src="./resources/Day5a.png" width="42%">](https://www.youtube.com/watch?v=qJqAXjz-Rh4&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI&index=21 "MarkDown in 72 minutes")
 
+## **Day-6**
+### **Pandas_01**
 
+Here is the dataset to work on [download here](datasets/pandas_01_day6.xlsx)
 
 
 <!-- ## **Day-6**
