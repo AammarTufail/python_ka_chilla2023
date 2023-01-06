@@ -40,7 +40,7 @@ Only for Windows 11 Windows 10
 <img src="./resources/snipping2.png" width="42%">
 4. The screenshot is automatically copied to your clipboard. A notification also appears once you're finished taking a screenshot, select it for more editing options.
 5. You can also save the screenshot like this:\
-<img src="./resources/snipping3.png" width="42%">\
+<img src="./resources/snipping3.png" width="42%">
 
 More information can be seen at the following [link from Microsoft](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)
 
