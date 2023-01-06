@@ -120,9 +120,10 @@ Python Programming (Python-101) by clicking on this:\
 ### **Jupyternotebook Introduction, Libraries and Data Visualization**
 
 Is lecture main ham dekhen gay k:
-1. jupyter notebooks `.ipynb` extension wali kia hti hyn?
-2. Libraries kia hti hyn or kis liay use htin?
-3. Data Visualization kaisay ki jati hy in Python?\
+1. jupyter notebooks `.ipynb` extension wali kia hti hyn? [video is here](https://youtu.be/V5Pk5qvRo7A?t=273)
+2. Libraries kia hti hyn, kis liay use htin, Install kaisay ki jati hyn, and import kaisay karni hyn? [video is here](https://youtu.be/V5Pk5qvRo7A?t=2176)
+3. Data Visualization kaisay ki jati hy in Python? [video is here](https://youtu.be/V5Pk5qvRo7A?t=4124)
+4. Complete Lecture is here:\
 [<img src="./resources/Day5.png" width="42%">](https://youtu.be/V5Pk5qvRo7A "Day-5 Lecture")
 
 ### **Markdown Language in 75 Minutes (This video is taken from Python ka chilla 2022**
