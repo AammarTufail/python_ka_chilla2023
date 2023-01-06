@@ -23,6 +23,35 @@ Ye steps follow karen:
 7. For more details watch [this video for IPHONE](https://www.youtube.com/watch?v=nnbu3C1ht9Y&t=14s&ab_channel=VideoLane) and [this for android](https://www.youtube.com/watch?v=SsxBcGJDRC0&ab_channel=CapTrongNam-HowTo).
 8. Join our zoom meetings and enjoy.  
 
+## **How to take screenshots and send us your assignments**
+Only for Windows 11 Windows 10
+
+**Open Snipping Tool and take a screenshot** 
+### *To use the Snipping Tool when you have a mouse and a keyboard:*
+2. Press Windows logo key + Shift + S. The desktop will darken while you select an area for your screenshot.
+3. Rectangular mode is selected by default. You can change the shape of your snip by choosing one of the following options in the toolbar: Rectangular mode, Window mode, Full-screen mode, and Free-form mode.
+4. The screenshot is automatically copied to your clipboard. A notification also appears once you're finished taking a screenshot, select it for more editing options.
+
+### *To use the Snipping Tool with only a mouse:*
+1. To open the Snipping Tool, select Start, enter snipping tool, then select it from the results.\
+<img src="./resources/snipping1.png" width="42%">
+2. Select New to take a screenshot.
+3. Rectangular mode is selected by default. You can change the shape of your snip by choosing one of the following options in the toolbar: Rectangular mode, Window mode, Full-screen mode, and Free-form mode.\
+<img src="./resources/snipping2.png" width="42%">
+4. The screenshot is automatically copied to your clipboard. A notification also appears once you're finished taking a screenshot, select it for more editing options.
+5. You can also save the screenshot like this:\
+<img src="./resources/snipping3.png" width="42%">\
+
+More information can be seen at the following [link from Microsoft](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)
+
+### *To send assignment:*
+1. rename the screenshot with your name and assignment day and number
+2. Open your telegram app in PC.
+3. Send the screenshot or the required assignments at the following telegram id: `@baba_aammar`
+4. All other assignments should also be sent using similar method.
+
+
+
 ## **Course Content**
 
 - [Day-1](#day-1)
