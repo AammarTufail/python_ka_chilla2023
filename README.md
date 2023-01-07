@@ -165,11 +165,20 @@ Is lecture main ham dekhen gay k:
 
 Here is the dataset to work on [download here](datasets/pandas_01_day6.xlsx)
 
+In this lecture you will see how pandas library can be used to import the dataset and run basic functions on that dataset
 
-<!-- ## **Day-6**
-### **Coming Soon**
+[<img src="./resources/Day6.png" width="42%">](https://www.youtube.com/watch?v=QllPdI6c_Ko&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=11&t=2s "Pandas basics")
 
 ## **Day-7**
+### **Pandas library basic functions**
+
+In this lecture you will see how pandas library can be used to import the dataset and run basic functions on that dataset
+
+[<img src="./resources/Day7.png" width="42%">](https://www.youtube.com/watch?v=dnVZryp-qag&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=12 "Pandas basics")
+
+
+
+<!-- ## **Day-7**
 ### **Coming Soon**
 
 ## **Day-8**
@@ -185,4 +194,4 @@ Here is the dataset to work on [download here](datasets/pandas_01_day6.xlsx)
 ### **Coming Soon**
 
 ## **Day-12**
-### **Coming Soon** -->
+### **Coming Soon** --> -->
