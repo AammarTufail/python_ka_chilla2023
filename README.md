@@ -59,10 +59,10 @@ More information can be seen at the following [link from Microsoft](https://supp
 - [Day-3](#day-3)
 - [Day-4](#day-4)
 - [Day-5](#day-5)
-<!-- - [Day-6](#day-6)
+- [Day-6](#day-6)
 - [Day-7](#day-7)
 - [Day-8](#day-8)
-- [Day-9](#day-9)
+<!-- - [Day-9](#day-9)
 - [Day-10](#day-10)
 - [Day-11](#day-11) -->
 
