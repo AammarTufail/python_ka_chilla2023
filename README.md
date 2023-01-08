@@ -158,7 +158,7 @@ Is lecture main ham dekhen gay k:
 ### **Markdown Language in 75 Minutes (This video is taken from Python ka chilla 2022**
 
 - Here you must learn Markdown language to make jupyter notebooks and `.md` files for github before moving ahead.\
-[<img src="./resources/Day5a.png" width="42%">](https://www.youtube.com/watch?v=qJqAXjz-Rh4&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI&index=21 "MarkDown in 72 minutes")
+[<img src="./resources/Day5a.png" width="42%">](https://youtu.be/qJqAXjz-Rh4?t=5 "MarkDown in 72 minutes")
 
 ## **Day-6**
 ### **Pandas_01**
@@ -176,15 +176,16 @@ In this lecture you will see how pandas library can be used to import the datase
 
 [<img src="./resources/Day7.png" width="42%">](https://www.youtube.com/watch?v=dnVZryp-qag&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=12 "Pandas basics")
 
-
-
-<!-- ## **Day-7**
-### **Coming Soon**
-
 ## **Day-8**
-### **Coming Soon**
+### **Pandas tips and tricks**
 
-## **Day-9**
+Is lecture main ham seekhen gay k `pandas` library ko use karne ki tips and tricks kon konsi hyn.\
+Ye lecture long hyn tu ap se request hy is ko poora dekh k sath sath pactice b karen.\
+Lecture dekhnay k liay neechay is picture per click karen
+
+[<img src="./resources/Day8.png" width="42%">](https://youtu.be/Ozil3_akpR8 "Pandas tips and tricks-Lecture")
+
+<!-- ## **Day-9**
 ### **Coming Soon**
 
 ## **Day-10**
@@ -194,4 +195,4 @@ In this lecture you will see how pandas library can be used to import the datase
 ### **Coming Soon**
 
 ## **Day-12**
-### **Coming Soon** --> -->
+### **Coming Soon** --> 
