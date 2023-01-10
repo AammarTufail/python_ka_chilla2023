@@ -197,7 +197,7 @@ Is lecture main ham pandas main or b details se practice karen gay.\
 Is lecture main ham cheat sheets dekhnay walay hyn jo bht important hun ge data wrangling karne k liay.
 Cheat sheets yahan se download kar len [Download all Cheat Sheets here](./resources/cheat_sheets/)
 
-[<img src="./resources/Day10.png" width="42%">](**https://youtu.be/1QX2QZ1J8Z8** "Data Wrangling and Data Visualization")
+[<img src="./resources/Day10.png" width="42%">](https://youtu.be/XZXmK3D_5-A "Data Wrangling and Data Visualization")
 
 
 <!-- ## **Day-11**
