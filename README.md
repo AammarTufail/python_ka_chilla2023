@@ -62,9 +62,9 @@ More information can be seen at the following [link from Microsoft](https://supp
 - [Day-6](#day-6)
 - [Day-7](#day-7)
 - [Day-8](#day-8)
-<!-- - [Day-9](#day-9)
+- [Day-9](#day-9)
 - [Day-10](#day-10)
-- [Day-11](#day-11) -->
+- [Day-11](#day-11) 
 
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
 
@@ -205,10 +205,10 @@ Cheat sheets yahan se download kar len [Download all Cheat Sheets here](./resour
 
 Plots or graphs bnanay k liay ap ko python se behtar koi language nahi milni or isi baat ko btanay k liay aaj k lectures hyn. In main ap seekhen gay k python ki different libraries like `matplotlib` and `seaborn` ko use kar kaisay plot bnaye jatay hyn
 
-- Is video main ap seekhen gay plotting hti kia hy or q zaroori hy:
+1. Is video main ap seekhen gay plotting hti kia hy or q zaroori hy:\
 [<img src="./resources/Day11a.png" width="42%">](https://youtu.be/2yWoQ-RICmU "Data Visualization Theory")
 
-- Is video main aap dekhen gay k python main coding kar k plots kaisay bna saktay hyn:
+2. Is video main aap dekhen gay k python main coding kar k plots kaisay bna saktay hyn:\
 [<img src="./resources/Day11b.png" width="42%">](https://youtu.be/IVtFDKR_KOA "Data Visualization")
 
 <!-- ## **Day-12**
