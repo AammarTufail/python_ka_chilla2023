@@ -200,8 +200,16 @@ Cheat sheets yahan se download kar len [Download all Cheat Sheets here](./resour
 [<img src="./resources/Day10.png" width="42%">](https://youtu.be/XZXmK3D_5-A "Data Wrangling and Data Visualization")
 
 
-<!-- ## **Day-11**
-### **Coming Soon**
+ ## **Day-11**
+### **Data Visualization**
 
-## **Day-12**
+Plots or graphs bnanay k liay ap ko python se behtar koi language nahi milni or isi baat ko btanay k liay aaj k lectures hyn. In main ap seekhen gay k python ki different libraries like `matplotlib` and `seaborn` ko use kar kaisay plot bnaye jatay hyn
+
+- Is video main ap seekhen gay plotting hti kia hy or q zaroori hy:
+[<img src="./resources/Day11a.png" width="42%">](https://youtu.be/2yWoQ-RICmU "Data Visualization Theory")
+
+- Is video main aap dekhen gay k python main coding kar k plots kaisay bna saktay hyn:
+[<img src="./resources/Day11b.png" width="42%">](https://youtu.be/IVtFDKR_KOA "Data Visualization")
+
+<!-- ## **Day-12**
 ### **Coming Soon** --> 
