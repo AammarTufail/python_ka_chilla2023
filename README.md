@@ -192,7 +192,7 @@ Is lecture main ham pandas main or b details se practice karen gay.\
 [<img src="./resources/Day9.png" width="42%">](https://youtu.be/K_i7VGtzGNU "Pandas practice")
 
 ## **Day-10**
-### **Data Wrangling and Data Visualization**
+### **Data Wrangling and Data Visualization (Basics)**
 
 Is lecture main ham cheat sheets dekhnay walay hyn jo bht important hun ge data wrangling karne k liay.
 Cheat sheets yahan se download kar len [Download all Cheat Sheets here](./resources/cheat_sheets/)
@@ -211,5 +211,7 @@ Plots or graphs bnanay k liay ap ko python se behtar koi language nahi milni or 
 2. Is video main aap dekhen gay k python main coding kar k plots kaisay bna saktay hyn:\
 [<img src="./resources/Day11b.png" width="42%">](https://youtu.be/IVtFDKR_KOA "Data Visualization")
 
-<!-- ## **Day-12**
-### **Coming Soon** --> 
+## **Day-12**
+### **Data Wrangling and Visualization (Intermediate)**
+
+(coming soon)
