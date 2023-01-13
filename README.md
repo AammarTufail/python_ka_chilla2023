@@ -215,3 +215,14 @@ Plots or graphs bnanay k liay ap ko python se behtar koi language nahi milni or 
 ### **Exploratory Data Analysis (Basics)**
 
 [<img src="./resources/Day12.png" width="42%">](https://youtu.be/sCdu54Mq0FA "Data Wrangling and EDA with python")
+
+## **Day-13**
+### **Exploratory Data Analysis (A-Z)**
+
+[<img src="./resources/Day13.png" width="42%">](https://youtu.be/419WLiki7jI "EDA with python")
+
+## **Day-14 and 15**
+### **ABC of Statistics**
+
+>Watch the following playlist to learn basic statistics for Data Science.\
+[Click here to watch ABC of Statistics](https://youtube.com/playlist?list=PL9XvIvvVL50Hsio_tunNVlAq9XhB4cU2J)
