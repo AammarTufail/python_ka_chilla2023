@@ -64,7 +64,9 @@ More information can be seen at the following [link from Microsoft](https://supp
 - [Day-8](#day-8)
 - [Day-9](#day-9)
 - [Day-10](#day-10)
-- [Day-11](#day-11) 
+- [Day-11](#day-11)
+- [Day-12](#day-12)
+- [Day-13](#day-13) 
 
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
 
