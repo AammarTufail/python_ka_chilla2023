@@ -212,6 +212,6 @@ Plots or graphs bnanay k liay ap ko python se behtar koi language nahi milni or 
 [<img src="./resources/Day11b.png" width="42%">](https://youtu.be/IVtFDKR_KOA "Data Visualization")
 
 ## **Day-12**
-### **Data Wrangling and Visualization (Intermediate)**
+### **Exploratory Data Analysis (Basics)**
 
-(coming soon)
+[<img src="./resources/Day12.png" width="42%">](https://youtu.be/sCdu54Mq0FA "Data Wrangling and EDA")
