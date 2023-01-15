@@ -301,5 +301,59 @@ titanic.to_csv('titanic_cleaned.csv', index=False)
 ```
 This is just one example of how to perform data wrangling on the Titanic dataset, but there are many other ways you can handle missing values, outliers, and feature engineering. The important thing is to understand the data, and to make decisions based on the context of the problem you're trying to solve.
 
+Another way of treating the data is as follows:
+
+```python
+# Import the necessary libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+# Load the Titanic dataset
+data = pd.read_csv('titanic.csv')
+
+# View the first few rows of the dataset
+print(data.head())
+
+# Check for missing values
+print(data.isnull().sum())
+
+# Handle missing values
+data['age'].fillna(data['age'].median(), inplace=True)
+data['embarked'].fillna(data['embarked'].mode()[0], inplace=True)
+
+# Check for outliers
+# Option 1: Remove outliers
+q1 = data["fare"].quantile(0.25)
+q3 = data["fare"].quantile(0.75)
+iqr = q3-q1 
+fence_low = q1-1.5*iqr
+fence_high = q3+1.5*iqr
+data = data[(data["fare"] > fence_low) & (data["fare"] < fence_high)]
+
+# Option 2: Transform outliers
+data['fare'] = data['fare'].apply(lambda x: x if x < 100 else 100)
+
+# Feature engineering
+#if the titles are given in the dataset
+data['Title'] = data.Name.str.extract(' ([A-Za-z]+)\.', expand=False)
+data['Title'] = data['Title'].replace(['Lady', 'Countess','Capt', 'Col','Don', 'Dr', 'Major', 'Rev', 'Sir', 'Jonkheer', 'Dona'], 'Rare')
+data['Title'] = data['Title'].replace('Mlle', 'Miss')
+data['Title'] = data['Title'].replace('Ms', 'Miss')
+data['Title'] = data['Title'].replace('Mme', 'Mrs')
+data = data.drop(['Name'], axis=1)
+data = pd.get_dummies(data, columns = ["Title"])
+
+# Group and aggregate data
+data = data.groupby(['Pclass', 'Sex']).mean()
+
+# Save the cleaned dataset
+data.to_csv('titanic_cleaned.csv', index=True)
+```
+In this example I have used IQR method to check for outliers, and I have used some feature engineering techniques, like extracting title from the name and creating dummies variables and also I have grouped the data by Pclass and Sex and taken the mean of the data.
+
+It's important to note that the steps you take during data wrangling will vary depending on the dataset and the specific analysis you plan to perform. The examples above should give you an idea of the types of tasks that are typically involved in data wrangling and how to perform them using the pandas library.
 
 
