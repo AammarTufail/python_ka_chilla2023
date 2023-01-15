@@ -67,7 +67,9 @@ More information can be seen at the following [link from Microsoft](https://supp
 - [Day-11](#day-11)
 - [Day-12](#day-12)
 - [Day-13](#day-13) 
-
+- [Day-14](#day-14) 
+- [Day-15](#day-15) 
+- [Day-16](#day-16) 
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
 
 ## **Day-1**
@@ -223,8 +225,81 @@ Plots or graphs bnanay k liay ap ko python se behtar koi language nahi milni or 
 
 [<img src="./resources/Day13.png" width="42%">](https://youtu.be/419WLiki7jI "EDA with python")
 
-## **Day-14 and 15**
+## **Day-14**
 ### **ABC of Statistics**
 
 >Watch the following playlist to learn basic statistics for Data Science.\
 [Click here to watch ABC of Statistics](https://youtube.com/playlist?list=PL9XvIvvVL50Hsio_tunNVlAq9XhB4cU2J)
+
+## **Day-15**
+### **Python Data Wrangling Techniques: From Beginner to Pro**
+
+>Today we will learn Data Wrangling in python:
+
+**`Data wrangling`**, also known as `data munging`, is the process of cleaning, transforming, and organizing data in a way that makes it more suitable for analysis. It is a crucial step in the data science process as real-world data is often messy and inconsistent. 
+
+[<img src="./resources/Day15.png" width="42%">](link "Data Wrangling")
+
+The general steps to do `Data Wrnagling` in python are as follows:
+
+>**Steps to perform data wrangling on the Titanic dataset in Python using pandas library:**
+>1. Import the necessary libraries and load the Titanic dataset into a pandas DataFrame.
+>2. Explore the dataset by viewing the first few rows, column names, and data types.
+>3. Identify and handle missing values by either dropping or imputing them.
+>4. Check for outliers and remove or transform them as necessary.
+>5. Feature engineering by creating new columns or transforming existing ones.
+>6. Group and aggregate data as required.
+>7. Save the cleaned dataset to a new file for future use.
+
+It's worth noting that these are general steps and the specific steps you take will depend on the dataset you are working with and the analysis you plan to perform.
+
+Here is an example of how to perform data wrangling on the `titanic` dataset in Python using the pandas library:
+
+```python
+# Import the necessary libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load the Titanic dataset into a pandas DataFrame
+titanic = sns.load_dataset('titanic')
+
+# View the first few rows of the dataset
+titanic.head()
+
+# View the column names and data types
+titanic.info()
+
+# Check for missing values
+print(data.isnull().sum())
+
+# Handle missing values
+# Option 1: Drop rows with missing values
+titanic.dropna(inplace=True)
+
+# Option 2: Impute missing values
+titanic['Age'].fillna(titanic['Age'].mean(), inplace=True)
+
+
+# Check for outliers and remove or transform them as necessary
+sns.boxplot(x=titanic['age'])
+
+# Transform outliers
+titanic['Age'] = np.log(titanic['Age'])
+
+# Feature engineering
+titanic['family_size'] = titanic['sibsp'] + titanic['parch'] + 1
+titanic['is_alone'] = 1 # initialize to yes/1 is alone
+titanic['is_alone'].loc[titanic['family_size'] > 1] = 0 # now update to no/0 if family size is greater than 1
+
+# Group and aggregate data
+data = titanic.groupby('Pclass').mean()
+
+# Save the cleaned dataset
+titanic.to_csv('titanic_cleaned.csv', index=False)
+```
+This is just one example of how to perform data wrangling on the Titanic dataset, but there are many other ways you can handle missing values, outliers, and feature engineering. The important thing is to understand the data, and to make decisions based on the context of the problem you're trying to solve.
+
+
+
