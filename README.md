@@ -238,7 +238,7 @@ Plots or graphs bnanay k liay ap ko python se behtar koi language nahi milni or 
 
 **`Data wrangling`**, also known as `data munging`, is the process of cleaning, transforming, and organizing data in a way that makes it more suitable for analysis. It is a crucial step in the data science process as real-world data is often messy and inconsistent. 
 
-[<img src="./resources/Day15.png" width="42%">](link "Data Wrangling")
+[<img src="./resources/Day15.png" width="42%">](https://www.youtube.com/watch?v=jp93e9DDBlo&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=21 "Data Wrangling")
 
 The general steps to do `Data Wrnagling` in python are as follows:
 
