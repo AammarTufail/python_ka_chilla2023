@@ -243,16 +243,32 @@ Plots or graphs bnanay k liay ap ko python se behtar koi language nahi milni or 
 The general steps to do `Data Wrnagling` in python are as follows:
 
 >**Steps to perform data wrangling on the Titanic dataset in Python using pandas library:**
->1. Import the necessary libraries and load the Titanic dataset into a pandas DataFrame.
->2. Explore the dataset by viewing the first few rows, column names, and data types.
->3. Identify and handle missing values by either dropping or imputing them.
->4. Check for outliers and remove or transform them as necessary.
->5. Feature engineering by creating new columns or transforming existing ones.
->6. Group and aggregate data as required.
->7. Save the cleaned dataset to a new file for future use.
+>The steps of data wrangling in Python typically include:
+1. Importing necessary libraries such as Pandas, NumPy, and Matplotlib
+2. Loading the data into a Pandas DataFrame
+3. Assessing the data for missing values, outliers, and inconsistencies
+4. Cleaning the data by filling in missing values, removing outliers, and correcting errors
+5. Organizing the data by creating new columns, renaming columns, sorting, and filtering the data
+6. Storing the cleaned data in a format that can be used for future analysis, such as a CSV or Excel file
+7. Exploring the data by creating visualizations and using descriptive statistics
+8. Creating a pivot table to summarize the data
+9. Checking for and handling duplicate rows
+10. Encoding categorical variables
+11. Removing unnecessary columns or rows
+12. Merging or joining multiple datasets
+13. Handling missing or null values
+14. Reshaping the data
+15. Formatting the data
+16. Normalizing or scaling the data
+17. Creating new features from existing data
+18. Validating data integrity
+19. Saving the final data for future use
+20. Documenting the data wrangling process for reproducibility
+21. Please note that the steps may vary depending on the data, the requirements, and the goals of the analysis.
 
 It's worth noting that these are general steps and the specific steps you take will depend on the dataset you are working with and the analysis you plan to perform.
 
+----
 Here is an example of how to perform data wrangling on the `titanic` dataset in Python using the pandas library:
 
 ```python
