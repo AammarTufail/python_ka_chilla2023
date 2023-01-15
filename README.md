@@ -264,8 +264,8 @@ The general steps to do `Data Wrnagling` in python are as follows:
 18. Validating data integrity
 19. Saving the final data for future use
 20. Documenting the data wrangling process for reproducibility
-21. Please note that the steps may vary depending on the data, the requirements, and the goals of the analysis.
 
+Please note that the steps may vary depending on the data, the requirements, and the goals of the analysis.
 It's worth noting that these are general steps and the specific steps you take will depend on the dataset you are working with and the analysis you plan to perform.
 
 ----
