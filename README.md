@@ -92,6 +92,7 @@ More information can be seen at the following [link from Microsoft](https://supp
 - [Day-20](#day-20)
 - [Day-21](#day-21)
 - [Day-22](#day-22)
+- [Day-23](#day-23)
 
 
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
