@@ -70,6 +70,12 @@ More information can be seen at the following [link from Microsoft](https://supp
 - [Day-14](#day-14) 
 - [Day-15](#day-15) 
 - [Day-16](#day-16) 
+- [Day-17](#day-17)
+- [Day-18](#day-18)
+- [Day-19](#day-19)
+- [Day-20](#day-20)
+
+
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
 
 ## **Day-1**
@@ -372,4 +378,162 @@ In this example I have used IQR method to check for outliers, and I have used so
 
 It's important to note that the steps you take during data wrangling will vary depending on the dataset and the specific analysis you plan to perform. The examples above should give you an idea of the types of tasks that are typically involved in data wrangling and how to perform them using the pandas library.
 
+---
+## **Day-16**
+### **Machine Learning Basics**
 
+In this lecture we will learn what is machine learning and how we can implement that in our everyday life, projects and science themes.
+
+[<img src="./resources/Day16.png" width="42%">](https://youtu.be/AJElOIz8ysU "Machine Learning Zero-Advanced level | in Urdu/Hindi | Day-16")
+
+----
+## **Day-17**
+### **Machine Learning Basics-1**
+
+In this lecture we will learn what is machine learning with explained and detailed example
+- Types of Machine learning
+- Algorithms in ML
+- Regression vs. Classification
+- Much more\
+
+Here is the video:
+
+[<img src="./resources/Day17.png" width="42%">](https://www.youtube.com/watch?v=oCguRWNFqs4&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=23&t=1282s "What is Machine Learning")
+
+----
+## **Day-18**
+### **Regression (Machine Learning Basics-2)**
+
+In this lecture we will learn how to use linear regression model in Machine learning, what is it and how we can implement that in real life?
+
+Here is the video:
+
+[<img src="./resources/Day18.png" width="42%">](https://www.youtube.com/watch?v=yEMS0QXflew&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=24 "Linear Regression in Machine Learning")
+
+----
+## **Day-19**
+### **Classification (Machine Learning Basics-3)**
+
+In this lecture we will learn how to use classification model in Machine learning, what is it and how we can implement that in real life?
+
+Here is the video:
+
+[<img src="./resources/Day19.png" width="42%">](https://youtu.be/0k7hEy_9fJg "Classification in Machine learning | in Urdu/Hindi | Day-19")
+
+----
+## **Day-20**
+### **How to select a best Model in Machine learning with Scikit-learn?**
+
+In this lecture we will learn how to select a best model in Machine learning, what is it and how we can implement that in real life?
+
+Here is the video:
+
+[<img src="./resources/Day20.png" width="42%">](https://www.youtube.com/watch?v=XiUJwXglo5s&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=26 "ML with Scikit-learn | in Urdu/Hindi | Day-20")
+
+Send me your assignment if you enrolled in the course:
+
+Here is the code mentioned in the video:
+
+```python
+# Import the necessary libraries
+# import libraries
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+df = sns.load_dataset("titanic")
+X = df[['pclass', 'sex', 'age', 'sibsp', 'parch', 'fare']]
+y = df['survived']
+X = pd.get_dummies(X, columns=['sex'])
+X.age.fillna(value = X['age'].mean(), inplace=True)
+
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+from sklearn.model_selection import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+models = [LogisticRegression(), SVC(), DecisionTreeClassifier(), RandomForestClassifier(), KNeighborsClassifier()]
+model_names = ['Logistic Regression', 'SVM', 'Decision Tree', 'Random Forest', 'KNN']
+
+models_scores = []
+for model, model_name in zip(models, model_names):
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+    accuracy = accuracy_score(y_test, y_pred)
+    models_scores.append([model_name,accuracy])
+
+sorted_models = sorted(models_scores, key=lambda x: x[1], reverse=True)
+for model in sorted_models:
+    print("Accuracy Score: ",f'{model[0]} : {model[1]:.2f}')
+
+
+# Accuracy Score:  Random Forest : 0.81
+# Accuracy Score:  Decision Tree : 0.79
+# Accuracy Score:  KNN : 0.76
+# Accuracy Score:  Logistic Regression : 0.75
+# Accuracy Score:  SVM : 0.74
+
+models = [LogisticRegression(), SVC(), DecisionTreeClassifier(), RandomForestClassifier(), KNeighborsClassifier()]
+model_names = ['Logistic Regression', 'SVM', 'Decision Tree', 'Random Forest', 'KNN']
+models_scores = []
+for model, model_name in zip(models, model_names):
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+    Precision = precision_score(y_test, y_pred)
+    models_scores.append([model_name,Precision])
+
+sorted_models = sorted(models_scores, key=lambda x: x[1], reverse=True)
+for model in sorted_models:
+    print("Precision Score: ", f'{model[0]} : {model[1]:.2f}')
+
+# Precision Score:  Random Forest : 0.80
+# Precision Score:  Decision Tree : 0.78
+# Precision Score:  KNN : 0.75
+# Precision Score:  Logistic Regression : 0.74
+# Precision Score:  SVM : 0.73
+
+models = [LogisticRegression(), SVC(), DecisionTreeClassifier(), RandomForestClassifier(), KNeighborsClassifier()]
+model_names = ['Logistic Regression', 'SVM', 'Decision Tree', 'Random Forest', 'KNN']
+models_scores = []
+for model, model_name in zip(models, model_names):
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+    Recall = recall_score(y_test, y_pred)
+    models_scores.append([model_name,Recall])
+
+sorted_models = sorted(models_scores, key=lambda x: x[1], reverse=True)
+for model in sorted_models:
+    print("Recall Score: ",f'{model[0]} : {model[1]:.2f}')
+
+# Recall Score:  Random Forest : 0.74
+# Recall Score:  Decision Tree : 0.72
+# Recall Score:  KNN : 0.68
+# Recall Score:  Logistic Regression : 0.67
+# Recall Score:  SVM : 0.65
+
+models = [LogisticRegression(), SVC(), DecisionTreeClassifier(), RandomForestClassifier(), KNeighborsClassifier()]
+model_names = ['Logistic Regression', 'SVM', 'Decision Tree', 'Random Forest', 'KNN']
+models_scores = []
+for model, model_name in zip(models, model_names):
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+    F1 = f1_score(y_test, y_pred)
+    models_scores.append([model_name,F1])
+
+sorted_models = sorted(models_scores, key=lambda x: x[1], reverse=True)
+for model in sorted_models:
+    print("F1 Score: ",f'{model[0]} : {model[1]:.2f}')
+
+# F1 Score:  Random Forest : 0.77
+# F1 Score:  Decision Tree : 0.75
+# F1 Score:  KNN : 0.71
+# F1 Score:  Logistic Regression : 0.70
+# F1 Score:  SVM : 0.68
+```
