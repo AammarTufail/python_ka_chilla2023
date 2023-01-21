@@ -656,7 +656,6 @@ Agar ap yahan tak seekh ayen hyn tu yaqeen manen ap ny in concepts ko already bh
 
 > Aam dunya may sbb Kuch linear nai hota isi liay hum HR Baar linear regression k models istemal nai krty is liay jab b hmaray paas dependent variable may categorical/Boolean data ho to hum istemal krtay hayn Logistic regression. Is video may hum nay Dekha k logistics regression kis trhn different hay linear regression say, s curve Ka kya concept hay or kya higher dimensional logistic regression Hoti hay.
 
-
 [<img src="./resources/ml_day22-23/35.png" width="42%">](https://www.youtube.com/watch?v=Kmk9EeFnyHM "ML")
 
 
