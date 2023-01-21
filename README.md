@@ -618,7 +618,7 @@ Agar ap yahan tak seekh ayen hyn tu yaqeen manen ap ny in concepts ko already bh
 
 > Es video may hum Machine Learning ka introduction dekhyn gyn k wo hoti kya hay or is ML playlist may hum ainda kya chzyn dekhny walay hayn.
 
-[![26](./resources/ml_day22-23/26.PNG )](https://www.youtube.com/watch?v=eYXCw2FQfPA)
+[![26](./resources/ml_day22-23/26.PNG)](https://www.youtube.com/watch?v=eYXCw2FQfPA)
 
 > Cross validation ka nam hum bht zeada suntay hayn ML ki dunya may or is video may hum bht h desi example k sath dekhyn gyn k Cross validation (CV) kya hota hay or us ki mukhtalif types i.e., 4 fold CV, 10 fold CV, etc.
 
