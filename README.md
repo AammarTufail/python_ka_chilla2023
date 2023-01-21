@@ -617,36 +617,36 @@ Agar ap yahan tak seekh ayen hyn tu yaqeen manen ap ny in concepts ko already bh
 
 
 > Es video may hum Machine Learning ka introduction dekhyn gyn k wo hoti kya hay or is ML playlist may hum ainda kya chzyn dekhny walay hayn.
-
-[![26](./resources/ml_day22-23/26.PNG)](https://www.youtube.com/watch?v=eYXCw2FQfPA)
+> 
+[<img src="./resources/ml_day22-23/26.png" width="42%">](https://www.youtube.com/watch?v=eYXCw2FQfPA)
 
 > Cross validation ka nam hum bht zeada suntay hayn ML ki dunya may or is video may hum bht h desi example k sath dekhyn gyn k Cross validation (CV) kya hota hay or us ki mukhtalif types i.e., 4 fold CV, 10 fold CV, etc.
 
-[![27](./Resources/ml_day22-23/27.PNG)](https://www.youtube.com/watch?v=iy3B94qUAV8)
+[<img src="./resources/ml_day22-23/27.png" width="42%">](https://www.youtube.com/watch?v=iy3B94qUAV8)
 
 > Confusion matrix hmyn bht h zeada confuse rakhta hay is liay isko asan bnanay k liay ye video ap k liay desi examples k sath mojood hay jis may hum nay dekha hay k confusion matrix ki zrurat kiun hay or hum kis trhn bnatay hayn jis may True Positive, True Negatives, False Positives or, False Negatives ko smjha hay.
 
-[![28](./Resources/ml_day22-23/28.PNG)](https://www.youtube.com/watch?v=bm_pw-TxwmE)
+[<img src="./resources/ml_day22-23/28.png" width="42%">](https://www.youtube.com/watch?v=bm_pw-TxwmE)
 
 > Jab hum koi b model bnatay hayn to us ko chk krty hayn k wo kitna acha kam kr raha hay. Sirf accuracy say kam nai chlta hr baar is liay ye dekhna prta hay k us k andr model kitnay positives (sensitivity) or kitnay negatives ( specificity) sai say model nay btaey hayn.
 
-[![29](./Resources/ml_day22-23/29.PNG)](https://www.youtube.com/watch?v=2nwjKvFsxBI)
+[<img src="./resources/ml_day22-23/29.png" width="42%">](https://www.youtube.com/watch?v=2nwjKvFsxBI)
 
 > Agar ap nay 2 model bnaey hayn jis may say 1 model bht acha fit hua hay or aek model bht achi prediction kr raha hay to apko un dono ko kesay istemal krna chaheay is ko smjhnay k liay BIAS -VARIANCE tradeoff ka concept smjhna zruri hay.
 
-[![30](./Resources/ml_day22-23/30.PNG)](https://www.youtube.com/watch?v=12hx3VCoShY)
+[<img src="./resources/ml_day22-23/30.png" width="42%">](https://www.youtube.com/watch?v=12hx3VCoShY)
 
 > Entropy Ka lfzi mtlb to ye hay k ap k data may Randomness/ disorder Kitna hay lekin machine learning ki dunya may is ko hum kis trhn istemal krtay hayn is video may achay say bht h sada or asan treqay say smjhaya hay ta k ap ainda jab b Entropy istemal kryn ML may to apko idea ho k ap isay kiun or kesay istemal kr skty hayn.
 
-[![32](./Resources/ml_day22-23/32.PNG)](https://www.youtube.com/watch?v=VUroGmmD1hc)
+[<img src="./resources/ml_day22-23/32.png" width="42%">](https://www.youtube.com/watch?v=VUroGmmD1hc)
 
 > Bht h zeada asan or aam ML Ka model hay linear regression model pr is may istemal honay walay concepts sbb KO smjh nai aatay. Is liay is video may ye btaya geya hay k linear regression hota kya hay, residual kisay kehtay hayn.
 
-[![33](./Resources/ml_day22-23/33.PNG)](https://www.youtube.com/watch?v=fXTMJniHdpc)
+[<img src="./resources/ml_day22-23/33.png" width="42%">](https://www.youtube.com/watch?v=fXTMJniHdpc)
 
 > Hum square kiun krty hayn difference KO or least squared residuals kya hotay hayn or kiun hum usay regression may dekhty hayn isi trhn agar hum higher dimensions may jaeyn ( aam lfzon may agar humaray paas 1 say zeada independent variables hon to kis trhn us may regression Ka model lgta hay us k liay ye video dekhna ap k liay bht zruri hay ( multiple regression)
 
-[![34](./Resources/ml_day22-23/34.PNG)](https://www.youtube.com/watch?v=iptI-dqLr-M)
+[<img src="./resources/ml_day22-23/34.png" width="42%">](https://www.youtube.com/watch?v=iptI-dqLr-M)
 
 ----
 
@@ -657,38 +657,38 @@ Agar ap yahan tak seekh ayen hyn tu yaqeen manen ap ny in concepts ko already bh
 > Aam dunya may sbb Kuch linear nai hota isi liay hum HR Baar linear regression k models istemal nai krty is liay jab b hmaray paas dependent variable may categorical/Boolean data ho to hum istemal krtay hayn Logistic regression. Is video may hum nay Dekha k logistics regression kis trhn different hay linear regression say, s curve Ka kya concept hay or kya higher dimensional logistic regression Hoti hay.
 
 
-[![35](./Resources/ml_day22-23/35.PNG)](https://www.youtube.com/watch?v=Kmk9EeFnyHM)
+[<img src="./resources/ml_day22-23/35.png" width="42%">](https://www.youtube.com/watch?v=Kmk9EeFnyHM)
 
 
 > ROC ( Receive operating characteristic) and AUC ( area under the curve) dono mil k hmyn btatay hayn k model kis trhn perform kr Raha hay. ROC aek probability curve hay or AUC us may ye btata hay k measure of separability kitni hay model ki ye dono aek sath accuracy say zeada Acha model ko evaluate krty hayn jab class imbalanced Hoti hay, is video may ye chz asan lfzon may discuss ki hui hay or ye b btaya geya hay k hum in KO kesay bna skty hayn or kesay interpretation kr skty hayn.
 
-[![36](./Resources/ml_day22-23/36.PNG)](https://www.youtube.com/watch?v=-f-mvDObG1U)
+[<img src="./resources/ml_day22-23/36.png" width="42%">](https://www.youtube.com/watch?v=-f-mvDObG1U)
 
 > Logistic regression may s-curve ko fit krnay k liay hum nay Jo method istemal Kia hay ( maximum likelihood) Ka wo in detail kesay lgta hay or is may hum least squared residuals wala method kiun istemal nai krty.
 
-[![37](./Resources/ml_day22-23/37.PNG)](https://www.youtube.com/watch?v=CQOzUDd_83U)
+[<img src="./resources/ml_day22-23/37.png" width="42%">](https://www.youtube.com/watch?v=CQOzUDd_83U)
 
 > Or agar hum model ko chk kr rhy hayn k model Kitna accurate and reliable hay to us liay hum R-squared logistic regression may kis trhn calculate krty hayn or interpret krty hayn.
-
-[![38](./Resources/ml_day22-23/38.PNG)](https://www.youtube.com/watch?v=JmVvPqR44h4)
+> 
+[<img src="./resources/ml_day22-23/38.png" width="42%">](https://www.youtube.com/watch?v=JmVvPqR44h4)
 
 
 > jab b hmaray model may overfitting/underfitting Ka issue ata hay to hum Realizations techniques use krty hayn or is may data or model ki noyiat Dekh k hum ye faisla krty hayn k hum kis technique pay focus kryn gyn. Jab data may bht saray usefull variables hon to hum mostly L2 use krty hayn.
 
-[![39](./Resources/ml_day22-23/39.PNG)](https://www.youtube.com/watch?v=nv-HHBxmfv4)
+[<img src="./resources/ml_day22-23/39.png" width="42%">](https://www.youtube.com/watch?v=nv-HHBxmfv4)
 
 > or jab useless variables zeada hon to hum L1 use krty hayn.
 
-[![40](./Resources/ml_day22-23/40.PNG)](https://www.youtube.com/watch?v=QDSQivx78eA)
+[<img src="./resources/ml_day22-23/40.png" width="42%">](https://www.youtube.com/watch?v=QDSQivx78eA)
 
 > or jab hum drmean may hon to phir hybrid technique Elastic net istemal krtay hayn.
 
-[![41](./Resources/ml_day22-23/41.PNG)](https://www.youtube.com/watch?v=AwbS2d1xYIQ)
+[<img src="./resources/ml_day22-23/41.png" width="42%">](https://www.youtube.com/watch?v=AwbS2d1xYIQ)
 
 > Principal component analysis (PCA) hum zeada tr feature selection/ dimension reduction k liay istemal krtay hayn. Is video may hum nay ye Dekha hay in detail k ML may exactly kb or kesay PCA istemal KR k apna Kam asaan Kia ja skta hay or is may mojooe eigen vectors Ka concept b asan lfzon may btaya geya hay.
 
-[![42](./Resources/ml_day22-23/42.PNG)](https://www.youtube.com/watch?v=FufGzT9az4Y)
+[<img src="./resources/ml_day22-23/42.png" width="42%">](https://www.youtube.com/watch?v=FufGzT9az4Y)
 
 > Regression techniques k baad hum nay ye Dekha k Clustering kis trhn ki jati hay or is Ka mtlb kya hay or zrurat kiun Hoti hay. Aek bht h asan or famous techniques K-MEANS CLUSTERING ki hum is may kesay istemal krtay hayn or is may K , MEANS dono Ka mtlb kya hay or hum kesay decide krty hayn k K kya lena chaheay kis say hmara Kam asaan ho sky.
 
-[![43](./Resources/ml_day22-23/43.PNG)](https://www.youtube.com/watch?v=W9cl8xKQPOc)
+[<img src="./resources/ml_day22-23/43.png" width="42%">](https://www.youtube.com/watch?v=W9cl8xKQPOc)
