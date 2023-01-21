@@ -1,5 +1,13 @@
 # **Python ka Chilla 2023** 
 ## (Data Science with Python in 40-days)
+
+---
+- [What will you learn (Course Content)](#course-content)
+- [How to register for this course](#registration)
+- [How to take screen shots and send assignments](#how-to-take-screenshots-and-send-us-your-assignments)
+- [How to take your phone as webcam and mic for meetings](#how-to-use-your-mobile-iphoneandroid-camera-as-webcam-and-mobile-mic-as-main-mic-for-zoom-meetings)
+- [Important Resources, Books and Blogs](#resources-books-and-blogs-links)
+
 > An online course via zoom and youtube in Urdu/Hindi Language.
 > 
 This repository contains whole material of 40 days course on Python for Data Science in Urdu/Hindi 2023 Details are here: Registration details of our course is given [here](https://www.facebook.com/groups/codanics/permalink/1837695129921140/)           
@@ -7,7 +15,7 @@ This repository contains whole material of 40 days course on Python for Data Sci
 You can register for this course from 01.01.2023-09.02.2023.\
 More details on the course can be found in this [google form](https://forms.gle/kDyUnD1nrN2LF6qy8)
 
-<!-- ![](resources/PKC2023.png) --> #if you want to make a big poster
+<!-- ![](resources/PKC2023.png) --> 
 <!-- <img src="resources/PKC2023.png" height="400"> -->
 <img src="resources/poster_2.png" width="700">
 
@@ -52,6 +60,14 @@ More information can be seen at the following [link from Microsoft](https://supp
 
 
 
+## **Resources, Books and Blogs Links:**
+
+- [Python for Data Science- Complete Playlist](https://www.youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)
+- Books:
+  - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  - [Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+
+
 ## **Course Content**
 
 - [Day-1](#day-1)
@@ -74,6 +90,8 @@ More information can be seen at the following [link from Microsoft](https://supp
 - [Day-18](#day-18)
 - [Day-19](#day-19)
 - [Day-20](#day-20)
+- [Day-21](#day-21)
+- [Day-22](#day-22)
 
 
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
@@ -537,3 +555,139 @@ for model in sorted_models:
 # F1 Score:  Logistic Regression : 0.70
 # F1 Score:  SVM : 0.68
 ```
+
+----
+## **Day-21**
+### **How to select a best parameters in a Machine learning model with Scikit-learn?**
+
+In this lecture we will learn how to select a best parameters in a model using gridsearch CV in scikit-learn
+
+Here is the video:
+
+[<img src="./resources/Day21.png" width="42%">](https://youtu.be/-IHgSW5dB5s "Grid Seach cv | in Urdu/Hindi | Day-21")
+
+Here is the code mentioned in the video:
+
+```python
+# Decision Tree Classifier and use best parameters
+import pandas as pd
+import seaborn as sns
+df = sns.load_dataset("titanic")
+X = df[['pclass', 'sex', 'age', 'sibsp', 'parch', 'fare']]
+y = df['survived']
+X = pd.get_dummies(X, columns=['sex'])
+X.age.fillna(value = X['age'].mean(), inplace=True)
+
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import GridSearchCV
+import numpy as np
+#create a model
+model = DecisionTreeClassifier()
+# define parameter grid
+param_grid = {'max_depth': [3, 5, 7, None], 'min_samples_split': [2, 3, 4]}
+
+#object grid search cv (Creating the model)
+grid_search = GridSearchCV(model, param_grid, cv=5, scoring='precision')
+
+#traing the model
+grid_search.fit(X,y)
+
+# print the best parameters
+print("Best Parameters: ", grid_search.best_params_)
+print("Best Score: ", grid_search.best_score_)
+
+# Best Parameters:  {'max_depth': 3, 'min_samples_split': 2}
+# Best Score:  0.775
+```
+
+In your assignments:
+
+Please write a code where you can select the best model based on grid search cv!
+
+
+----
+
+## **Day-22**
+### **Machine learning terminologies and theoratical concepts (Part-1)**
+
+Ab se agalay 2 din ham machine learning k basic concepts dekhnay walay hyn, jo terminologies machine learning main use hti hyn woh seekhen gay, ye lectures bht important hyn is liay inhen skip na kijeay ga.
+
+Agar ap yahan tak seekh ayen hyn tu yaqeen manen ap ny in concepts ko already bht had tak dekha hy, ab clear ho jayen gay or.
+
+
+> Es video may hum Machine Learning ka introduction dekhyn gyn k wo hoti kya hay or is ML playlist may hum ainda kya chzyn dekhny walay hayn.
+
+[![26](./resources/ml_day22-23/26.PNG )](https://www.youtube.com/watch?v=eYXCw2FQfPA)
+
+> Cross validation ka nam hum bht zeada suntay hayn ML ki dunya may or is video may hum bht h desi example k sath dekhyn gyn k Cross validation (CV) kya hota hay or us ki mukhtalif types i.e., 4 fold CV, 10 fold CV, etc.
+
+[![27](./Resources/ml_day22-23/27.PNG)](https://www.youtube.com/watch?v=iy3B94qUAV8)
+
+> Confusion matrix hmyn bht h zeada confuse rakhta hay is liay isko asan bnanay k liay ye video ap k liay desi examples k sath mojood hay jis may hum nay dekha hay k confusion matrix ki zrurat kiun hay or hum kis trhn bnatay hayn jis may True Positive, True Negatives, False Positives or, False Negatives ko smjha hay.
+
+[![28](./Resources/ml_day22-23/28.PNG)](https://www.youtube.com/watch?v=bm_pw-TxwmE)
+
+> Jab hum koi b model bnatay hayn to us ko chk krty hayn k wo kitna acha kam kr raha hay. Sirf accuracy say kam nai chlta hr baar is liay ye dekhna prta hay k us k andr model kitnay positives (sensitivity) or kitnay negatives ( specificity) sai say model nay btaey hayn.
+
+[![29](./Resources/ml_day22-23/29.PNG)](https://www.youtube.com/watch?v=2nwjKvFsxBI)
+
+> Agar ap nay 2 model bnaey hayn jis may say 1 model bht acha fit hua hay or aek model bht achi prediction kr raha hay to apko un dono ko kesay istemal krna chaheay is ko smjhnay k liay BIAS -VARIANCE tradeoff ka concept smjhna zruri hay.
+
+[![30](./Resources/ml_day22-23/30.PNG)](https://www.youtube.com/watch?v=12hx3VCoShY)
+
+> Entropy Ka lfzi mtlb to ye hay k ap k data may Randomness/ disorder Kitna hay lekin machine learning ki dunya may is ko hum kis trhn istemal krtay hayn is video may achay say bht h sada or asan treqay say smjhaya hay ta k ap ainda jab b Entropy istemal kryn ML may to apko idea ho k ap isay kiun or kesay istemal kr skty hayn.
+
+[![32](./Resources/ml_day22-23/32.PNG)](https://www.youtube.com/watch?v=VUroGmmD1hc)
+
+> Bht h zeada asan or aam ML Ka model hay linear regression model pr is may istemal honay walay concepts sbb KO smjh nai aatay. Is liay is video may ye btaya geya hay k linear regression hota kya hay, residual kisay kehtay hayn.
+
+[![33](./Resources/ml_day22-23/33.PNG)](https://www.youtube.com/watch?v=fXTMJniHdpc)
+
+> Hum square kiun krty hayn difference KO or least squared residuals kya hotay hayn or kiun hum usay regression may dekhty hayn isi trhn agar hum higher dimensions may jaeyn ( aam lfzon may agar humaray paas 1 say zeada independent variables hon to kis trhn us may regression Ka model lgta hay us k liay ye video dekhna ap k liay bht zruri hay ( multiple regression)
+
+[![34](./Resources/ml_day22-23/34.PNG)](https://www.youtube.com/watch?v=iptI-dqLr-M)
+
+----
+
+## **Day-23**
+### **Machine learning terminologies and theoratical concepts (Part-2)**
+
+
+> Aam dunya may sbb Kuch linear nai hota isi liay hum HR Baar linear regression k models istemal nai krty is liay jab b hmaray paas dependent variable may categorical/Boolean data ho to hum istemal krtay hayn Logistic regression. Is video may hum nay Dekha k logistics regression kis trhn different hay linear regression say, s curve Ka kya concept hay or kya higher dimensional logistic regression Hoti hay.
+
+
+[![35](./Resources/ml_day22-23/35.PNG)](https://www.youtube.com/watch?v=Kmk9EeFnyHM)
+
+
+> ROC ( Receive operating characteristic) and AUC ( area under the curve) dono mil k hmyn btatay hayn k model kis trhn perform kr Raha hay. ROC aek probability curve hay or AUC us may ye btata hay k measure of separability kitni hay model ki ye dono aek sath accuracy say zeada Acha model ko evaluate krty hayn jab class imbalanced Hoti hay, is video may ye chz asan lfzon may discuss ki hui hay or ye b btaya geya hay k hum in KO kesay bna skty hayn or kesay interpretation kr skty hayn.
+
+[![36](./Resources/ml_day22-23/36.PNG)](https://www.youtube.com/watch?v=-f-mvDObG1U)
+
+> Logistic regression may s-curve ko fit krnay k liay hum nay Jo method istemal Kia hay ( maximum likelihood) Ka wo in detail kesay lgta hay or is may hum least squared residuals wala method kiun istemal nai krty.
+
+[![37](./Resources/ml_day22-23/37.PNG)](https://www.youtube.com/watch?v=CQOzUDd_83U)
+
+> Or agar hum model ko chk kr rhy hayn k model Kitna accurate and reliable hay to us liay hum R-squared logistic regression may kis trhn calculate krty hayn or interpret krty hayn.
+
+[![38](./Resources/ml_day22-23/38.PNG)](https://www.youtube.com/watch?v=JmVvPqR44h4)
+
+
+> jab b hmaray model may overfitting/underfitting Ka issue ata hay to hum Realizations techniques use krty hayn or is may data or model ki noyiat Dekh k hum ye faisla krty hayn k hum kis technique pay focus kryn gyn. Jab data may bht saray usefull variables hon to hum mostly L2 use krty hayn.
+
+[![39](./Resources/ml_day22-23/39.PNG)](https://www.youtube.com/watch?v=nv-HHBxmfv4)
+
+> or jab useless variables zeada hon to hum L1 use krty hayn.
+
+[![40](./Resources/ml_day22-23/40.PNG)](https://www.youtube.com/watch?v=QDSQivx78eA)
+
+> or jab hum drmean may hon to phir hybrid technique Elastic net istemal krtay hayn.
+
+[![41](./Resources/ml_day22-23/41.PNG)](https://www.youtube.com/watch?v=AwbS2d1xYIQ)
+
+> Principal component analysis (PCA) hum zeada tr feature selection/ dimension reduction k liay istemal krtay hayn. Is video may hum nay ye Dekha hay in detail k ML may exactly kb or kesay PCA istemal KR k apna Kam asaan Kia ja skta hay or is may mojooe eigen vectors Ka concept b asan lfzon may btaya geya hay.
+
+[![42](./Resources/ml_day22-23/42.PNG)](https://www.youtube.com/watch?v=FufGzT9az4Y)
+
+> Regression techniques k baad hum nay ye Dekha k Clustering kis trhn ki jati hay or is Ka mtlb kya hay or zrurat kiun Hoti hay. Aek bht h asan or famous techniques K-MEANS CLUSTERING ki hum is may kesay istemal krtay hayn or is may K , MEANS dono Ka mtlb kya hay or hum kesay decide krty hayn k K kya lena chaheay kis say hmara Kam asaan ho sky.
+
+[![43](./Resources/ml_day22-23/43.PNG)](https://www.youtube.com/watch?v=W9cl8xKQPOc)
