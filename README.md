@@ -634,11 +634,11 @@ Agar ap yahan tak seekh ayen hyn tu yaqeen manen ap ny in concepts ko already bh
 
 > Agar ap nay 2 model bnaey hayn jis may say 1 model bht acha fit hua hay or aek model bht achi prediction kr raha hay to apko un dono ko kesay istemal krna chaheay is ko smjhnay k liay BIAS -VARIANCE tradeoff ka concept smjhna zruri hay.
 
-[<img src="./resources/ml_day22-23/30.png" width="42%">](https://www.youtube.com/watch?v=12hx3VCoShY "ML")
+[<img src="./resources/ml_day22_23/30.png" width="42%">](https://www.youtube.com/watch?v=12hx3VCoShY "ML")
 
 > Entropy Ka lfzi mtlb to ye hay k ap k data may Randomness/ disorder Kitna hay lekin machine learning ki dunya may is ko hum kis trhn istemal krtay hayn is video may achay say bht h sada or asan treqay say smjhaya hay ta k ap ainda jab b Entropy istemal kryn ML may to apko idea ho k ap isay kiun or kesay istemal kr skty hayn.
 
-[<img src="./resources/ml_day22-23/32.png" width="42%">](https://www.youtube.com/watch?v=VUroGmmD1hc "ML")
+[<img src="./resources/ml_day22_23/32.png" width="42%">](https://www.youtube.com/watch?v=VUroGmmD1hc "ML")
 
 > Bht h zeada asan or aam ML Ka model hay linear regression model pr is may istemal honay walay concepts sbb KO smjh nai aatay. Is liay is video may ye btaya geya hay k linear regression hota kya hay, residual kisay kehtay hayn.
 
