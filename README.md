@@ -611,6 +611,12 @@ Please write a code where you can select the best model based on grid search cv!
 ## **Day-22**
 ### **Machine learning terminologies and theoratical concepts (Part-1)**
 
+Sab se pehlay is lecture main ap o K-means clustering kaisay python main apply ki jati hy woh sikhaya jaye ga:
+
+[<img src="./resources/Day22.png" width="42%">](https://youtu.be/jdYTpYu4THE "Kmeans Clustering in Python")
+
+
+
 Ab se agalay 2 din ham machine learning k basic concepts dekhnay walay hyn, jo terminologies machine learning main use hti hyn woh seekhen gay, ye lectures bht important hyn is liay inhen skip na kijeay ga.
 
 Agar ap yahan tak seekh ayen hyn tu yaqeen manen ap ny in concepts ko already bht had tak dekha hy, ab clear ho jayen gay or.
