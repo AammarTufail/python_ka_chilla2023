@@ -93,6 +93,9 @@ More information can be seen at the following [link from Microsoft](https://supp
 - [Day-21](#day-21)
 - [Day-22](#day-22)
 - [Day-23](#day-23)
+- [Day-24](#day-24)
+- [Day-25](#day-25)
+- [Day-26](#day-26)
 
 
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
@@ -697,3 +700,30 @@ Agar ap yahan tak seekh ayen hyn tu yaqeen manen ap ny in concepts ko already bh
 > Regression techniques k baad hum nay ye Dekha k Clustering kis trhn ki jati hay or is Ka mtlb kya hay or zrurat kiun Hoti hay. Aek bht h asan or famous techniques K-MEANS CLUSTERING ki hum is may kesay istemal krtay hayn or is may K , MEANS dono Ka mtlb kya hay or hum kesay decide krty hayn k K kya lena chaheay kis say hmara Kam asaan ho sky.
 
 [<img src="./resources/ml_day22_23/43.png" width="42%">](https://www.youtube.com/watch?v=W9cl8xKQPOc "ML")
+
+## **Day-24**
+### **How to save and re-use a model**
+
+Is lecture main ham ne seekha k kis trah ham apna trained ML model save kartay hyn, click the image below to watch the video lecture:
+
+[<img src="./resources/Day24.png" width="42%">](https://www.youtube.com/watch?v=b0NnVf31vps&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=29 "joblib")
+
+## **Day-25**
+### **Practice session individual**
+
+Download any dataset on covid and submit the EDA on telegram if you want to have a feedback.
+
+1. Download the data from [google datasearch](https://datasetsearch.research.google.com/)
+2. Read in python
+3. Run EDA analysis
+4. Do data wrangling
+5. Data Visualization
+6. Machine learning model of your choice
+7. Submit
+
+## **Day-26**
+### **How to use Conda environments?**
+
+[<img src="./resources/Day26.png" width="42%">](https://youtu.be/nsFdTgwDrVE "conda environments")
+
+   
