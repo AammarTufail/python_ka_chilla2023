@@ -726,4 +726,18 @@ Download any dataset on covid and submit the EDA on telegram if you want to have
 
 [<img src="./resources/Day26.png" width="42%">](https://youtu.be/nsFdTgwDrVE "conda environments")
 
-   
+## **Day-27**
+### **Machine Learning with Tensorflow**
+
+You will learn these in this lecture:
+
+1. What are conda environments?
+2. How to install tensorflow for GPU and CPU PCs?
+   1. [Here's how install in Windows PC](https://www.tensorflow.org/install/pip#step-by-step_instructions)
+   2. [Here's how to install in Mac M1/M2](https://medium.com/mlearning-ai/install-tensorflow-on-mac-m1-m2-with-gpu-support-c404c6cfb580)
+3. What is git and github?
+
+
+[<img src="./resources/Day27.png" width="42%">](https://youtu.be/iNENqZOrgiY "tensorflow")
+
+After this lecture you have send the video presentation as mentioned in the lecture.
