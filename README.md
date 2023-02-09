@@ -3,22 +3,22 @@
 
 ---
 - [What will you learn (Course Content)](#course-content)
-- [How to register for this course](#registration)
-- [How to take screen shots and send assignments](#how-to-take-screenshots-and-send-us-your-assignments)
-- [How to take your phone as webcam and mic for meetings](#how-to-use-your-mobile-iphoneandroid-camera-as-webcam-and-mobile-mic-as-main-mic-for-zoom-meetings)
+<!-- - [How to register for this course](#registration) -->
+<!-- - [How to take screen shots and send assignments](#how-to-take-screenshots-and-send-us-your-assignments)
+- [How to take your phone as webcam and mic for meetings](#how-to-use-your-mobile-iphoneandroid-camera-as-webcam-and-mobile-mic-as-main-mic-for-zoom-meetings) -->
 - [Important Resources, Books and Blogs](#resources-books-and-blogs-links)
 - [Your Feedback matters](#feedback)
 
 > An online course via zoom and youtube in Urdu/Hindi Language.
 > 
 This repository contains whole material of 40 days course on Python for Data Science in Urdu/Hindi 2023 Details are here: Registration details of our course is given [here](https://www.facebook.com/groups/codanics/permalink/1837695129921140/)           
-## **Registration**
+<!-- ## **Registration**
 You can register for this course from 01.01.2023-09.02.2023.\
 More details on the course can be found in this [google form](https://forms.gle/kDyUnD1nrN2LF6qy8)
 
 <!-- ![](resources/PKC2023.png) --> 
 <!-- <img src="resources/PKC2023.png" height="400"> -->
-<img src="resources/poster_2.png" width="700">
+<!-- <img src="resources/poster_2.png" width="700">
 
 ## **How to use your mobile (Iphone/Android) camera as webcam and mobile mic as main mic for zoom meetings**
 Apnay mobile ka cameray ko as webcam use karnay k liay is [link](https://www.youtube.com/watch?v=IEmAQbvadE8&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=5) per click kar k short video ko dekhen
@@ -57,9 +57,9 @@ More information can be seen at the following [link from Microsoft](https://supp
 1. rename the screenshot with your name and assignment day and number
 2. Open your telegram app in PC.
 3. Send the screenshot or the required assignments at the following telegram id: `@baba_aammar`
-4. All other assignments should also be sent using similar method.
+4. All other assignments should also be sent using similar method. -->
 
-
+ -->
 
 ## **Resources, Books and Blogs Links:**
 
