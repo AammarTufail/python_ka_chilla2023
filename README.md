@@ -820,20 +820,6 @@ HERE IS THE LECTURE:\
 
 
 ## **Day-36**
-### **Time Series Analysis**
-
-Is lecture main time series analysis ko dekhen gay.
-Ye lecture two parts main hy.
-
-1. Intro to Time Series Analysis
-
-[<img src="./resources/Day36a.jpeg" width="42%">](https://youtube.com/live/VgYCEhui6FE "Time series")
-
-2. Advance Time Series Analysis
-
-[<img src="./resources/Day36b.jpeg" width="42%">](https://youtube.com/live/k4zP_EVJSP0 "Times series")
-
-## **Day-37**
 ### **Streamlit Dashboards for Data Science**
 
 Is lecture main ap streamlit ko dekhen gay. jo aik library hy jis se ap behtareen qisam ki webapps bna saktay hyn asani se.
@@ -894,3 +880,59 @@ Ye din several parts main hy is liay bear with me and learn alot today.
 14. Data Science Web app development via Streamlit in Python (Project based)
 
     [<img src="./resources/Day37n.jpeg" width="42%">](https://youtube.com/live/cLlFT3M-NPQ "Streamlit-14")
+
+
+## **Day-37**
+### **Time Series Analysis**
+
+Is lecture main time series analysis ko dekhen gay.
+Ye lecture two parts main hy.
+
+1. Intro to Time Series Analysis
+
+[<img src="./resources/Day36a.jpeg" width="42%">](https://youtube.com/live/VgYCEhui6FE "Time series")
+
+2. Advance Time Series Analysis
+
+[<img src="./resources/Day36b.jpeg" width="42%">](https://youtube.com/live/k4zP_EVJSP0 "Times series")
+
+
+## **Day-38**
+### **Introduction to NLP and text classification**
+
+
+In this lecture we will learn about the basics of NLP and text classification.
+
+HERE IS THE LECTURE:\
+[<img src="./resources/Day38.jpeg" width="42%">](https://youtube.com/live/ytXo6nnPsSQ "NLP")
+
+- Use of Tensorboad in Machine Learning
+
+HERE IS THE LECTURE:\
+[<img src="./resources/Day38a.gif" width="42%">](https://youtube.com/live/EMPS8s8s4Hk "tensorboard")
+
+## **Day-39**
+### **github and git tools**
+
+In this lecture we will learn about the github and git tools. Ap is main seekhen gay k kaisay github ko sue kar k ap apnay documentation save kar saktya hyn.
+
+HERE IS THE LECTURE:\
+[<img src="./resources/Day39.jpeg" width="42%">](https://youtube.com/live/twuCzvsjno0 "github")
+
+## **Day-40**
+### **Use of chatGPT to maintain your social media accounts**
+
+
+In this lecture we will learn about the use of chatGPT to maintain your social media accounts.
+
+HERE IS THE LECTURE:\
+[<img src="./resources/Day40.jpeg" width="42%">](https://youtube.com/live/1WUM42VXQDo "chatGPT for SOcial Media")
+
+--- 
+## **Feedback**
+
+Your feedback matters alot, may you please comment on the following [post on facebook](https://www.facebook.com/groups/codanics/permalink/1872283496462303/) to give use your feed back?
+
+[<img src="./resources/feedback.png" width="100%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Feedback")
+
+---
