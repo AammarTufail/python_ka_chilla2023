@@ -741,3 +741,100 @@ You will learn these in this lecture:
 [<img src="./resources/Day27.png" width="42%">](https://youtu.be/iNENqZOrgiY "tensorflow")
 
 After this lecture you have send the video presentation as mentioned in the lecture.
+
+## **Day-28**
+### **neural Networks introduction**
+
+Is video main ap neural network or is ki types dekhnay walay hyn.
+
+[<img src="./resources/Day28.jpeg" width="42%">](https://www.youtube.com/watch?v=6AlfcbhgBvo&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=32&t=970s "neural networks")
+
+
+## **Day-29**
+### **Computer Vision in PYTHON**
+
+This video will give you the basic concepts of computer vision in python.
+
+[<img src="./resources/Day29.jpeg" width="42%">](https://youtube.com/live/5VZX-ovRgAgDay29 "computer vision")
+
+## **Day-30**
+### **Image Classification in Tensorflow**
+
+This video will give you the basic concepts of activation function in tensorflow.
+
+[<img src="./resources/Day30.jpeg" width="42%">](https://youtu.be/ch2Yl40D9zk "Image Classification in Tensorflow")
+
+## **Day-31**
+### **Machine learning and Activation function in Tensorflow**
+
+This video will give you the basic concepts of activation function in tensorflow.
+
+[<img src="./resources/Day31.jpeg" width="42%">](https://youtube.com/live/UEPkIu8mHL4 "ML with TF")
+
+## **Day-32**
+### **Crash course on Activation Functions**
+
+This video will give you the basic concepts of activation function in tensorflow.
+
+[<img src="./resources/Day32.jpeg" width="42%">](https://youtu.be/tW6v915O4g4 "Activation Functions")
+
+## **Day-33**
+### **Project based learning**
+
+In thie lecture we used fashion mnist dataset to do some machine learning and deep learning tasks in Python with tensorflow.
+
+
+#### **What is tensorflow fasion mnist dataset?**
+60,000 28x28 grayscale images of 10 fashion categories, along with a test set of 10,000 images.
+This dataset can be used as a drop-in replacement for MNIST. The class labels are:
+Label Description
+* 0:	T-shirt/top
+* 1:	Trouser
+* 2:	Pullover
+* 3:	Dress
+* 4:	Coat
+* 5:	Sandal
+* 6:	Shirt
+* 7:	Sneaker
+* 8:	Bag
+* 9:	Ankle boot
+
+HERE IS THE LECTURE:\
+[<img src="./resources/Day33.png" width="42%">](https://www.youtube.com/watch?v=Is0EB1jkop8&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=37 "Project based learning")
+
+## **Day-34**
+### **How many epocs should we run in a deep neural network?**
+
+Call back function ko use kar k ham andaza laga saktay hyn k kitnay epochs use karnay chaheay based on the accuracy or loss, is lecture main ap ko sab clear hnay wala hy.
+
+HERE IS THE LECTURE:\
+[<img src="./resources/Day34.jpeg" width="42%">](https://youtu.be/o_41Gxk_JQA "Project based learning")
+
+## **Day-35**
+### **Types of Neural Networks**
+
+In this lecture we will learn about the types of neural networks.
+
+HERE IS THE LECTURE:\
+[<img src="./resources/Day35.jpeg" width="42%">](https://youtu.be/GGOjRuiU3fE "Types of Neural Networks")
+
+
+## **Day-36**
+### **Time Series Analysis**
+
+Is lecture main time series analysis ko dekhen gay.
+Ye lecture two parts main hy.
+
+1. Intro to Time Series Analysis
+
+[<img src="./resources/Day36a.jpeg" width="42%">](https://youtube.com/live/VgYCEhui6FE "Time series")
+
+2. Advance Time Series Analysis
+
+[<img src="./resources/Day36b.jpeg" width="42%">](https://youtube.com/live/k4zP_EVJSP0 "Times series")
+
+## **Day-37**
+### **Streamlit Dashboards for Data Science**
+
+Is lecture main ap streamlit ko dekhen gay. jo aik library hy jis se ap behtareen qisam ki webapps bna saktay hyn asani se.
+
