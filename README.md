@@ -7,6 +7,7 @@
 - [How to take screen shots and send assignments](#how-to-take-screenshots-and-send-us-your-assignments)
 - [How to take your phone as webcam and mic for meetings](#how-to-use-your-mobile-iphoneandroid-camera-as-webcam-and-mobile-mic-as-main-mic-for-zoom-meetings)
 - [Important Resources, Books and Blogs](#resources-books-and-blogs-links)
+- [Your Feedback matters](#feedback)
 
 > An online course via zoom and youtube in Urdu/Hindi Language.
 > 
@@ -96,6 +97,21 @@ More information can be seen at the following [link from Microsoft](https://supp
 - [Day-24](#day-24)
 - [Day-25](#day-25)
 - [Day-26](#day-26)
+- [Day-27](#day-27)
+- [Day-28](#day-28)
+- [Day-29](#day-29)
+- [Day-30](#day-30)
+- [Day-31](#day-31)
+- [Day-32](#day-32)
+- [Day-33](#day-33)
+- [Day-34](#day-34)
+- [Day-35](#day-35)
+- [Day-36](#day-36)
+- [Day-37](#day-37)
+- [Day-38](#day-38)
+- [Day-39](#day-39)
+- [Day-40](#day-40)
+- [Your Feedback matters](#feedback)
 
 
 > Everything related to course content in video lecture format will be uploaded **[here](https://youtube.com/playlist?list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN)** on youtube.
