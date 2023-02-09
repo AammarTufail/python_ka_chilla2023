@@ -949,6 +949,6 @@ HERE IS THE LECTURE:\
 
 Your feedback matters alot, may you please comment on the following [post on facebook](https://www.facebook.com/groups/codanics/permalink/1872283496462303/) to give use your feed back?
 
-[<img src="./resources/feedback.png" width="100%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Feedback")
+[<img src="./resources/feedback.png" width="50%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Feedback")
 
 ---
