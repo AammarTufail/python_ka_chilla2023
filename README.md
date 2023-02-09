@@ -838,3 +838,59 @@ Ye lecture two parts main hy.
 
 Is lecture main ap streamlit ko dekhen gay. jo aik library hy jis se ap behtareen qisam ki webapps bna saktay hyn asani se.
 
+Ye din several parts main hy is liay bear with me and learn alot today.
+
+1. Intro to Streamlit
+
+    [<img src="./resources/Day37a.jpeg" width="42%">](https://youtu.be/5bY-g9p_mxs "Streamlit-1")
+
+2. Streamlit with titanic dataset
+
+    [<img src="./resources/Day37b.jpeg" width="42%">](https://youtu.be/hy0A6wxlBuM "Streamlit-2")
+
+3. Streamlit with Plotly
+
+    [<img src="./resources/Day37c.jpeg" width="42%">](https://youtu.be/FIkHuQ5-94w "Streamlit-3")
+
+4. Animated plots with Streamlit & Plotly
+
+    [<img src="./resources/Day37d.jpeg" width="42%">](https://youtu.be/gIKgqBH-dTM "Streamlit-4")
+
+5. Streamlit webb app for EDA analysis
+
+    [<img src="./resources/Day37e.jpeg" width="42%">](https://youtu.be/crZcSoBLYaM "Streamlit-5")
+
+6. Streamlit k Jugaar
+
+    [<img src="./resources/Day37f.jpeg" width="42%">](https://youtu.be/ye7uSnLGkXY "Streamlit-6")
+
+7. Machine Leaning Web-application in python with streamlit
+
+    [<img src="./resources/Day37g.jpeg" width="42%">](https://youtu.be/goR8rWxJ-j0 "Streamlit-7")
+
+8. Deploy a streamlit data science app online
+
+    [<img src="./resources/Day37h.jpeg" width="42%">](https://youtu.be/_Dc42sybVoQ "Streamlit-8")
+
+9. Add video & audio to your streamlit data science webapp in python
+
+    [<img src="./resources/Day37i.jpeg" width="42%">](https://youtu.be/m9KhCRwKOgI "Streamlit-9")
+10. Add code to streamlit webapp
+
+    [<img src="./resources/Day37j.jpeg" width="42%">](https://youtu.be/wnRncTcyuFM "Streamlit-10")
+
+11. Make Interactive Dashboard with Explainer Dashboard
+
+    [<img src="./resources/Day37k.jpeg" width="42%">](https://youtu.be/WlKenV8m3xU "Streamlit-11")
+
+12. Embedding code snippets in streamlit webapp
+
+    [<img src="./resources/Day37l.jpeg" width="42%">](https://youtu.be/LwAAxmS2X0Y "Streamlit-12")
+
+13. Streamlit App development with Python `project based`
+
+    [<img src="./resources/Day37m.jpeg" width="42%">](https://youtube.com/live/a6uAZ_bv6Yw "Streamlit-13")
+
+14. Data Science Web app development via Streamlit in Python (Project based)
+
+    [<img src="./resources/Day37n.jpeg" width="42%">](https://youtube.com/live/cLlFT3M-NPQ "Streamlit-14")
